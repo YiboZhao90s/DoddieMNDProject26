@@ -8,9 +8,13 @@ Therapeutic targeting of the endo-lysosomal system has shown promising results i
 This project is funded by the My Name'5 Doddie Foundation (Project ID: )
 
 ## Repository Structure
-├── analysis/      # Analysis scripts and workflows
-├── results/       # Analysis outputs and figures
-└── README.md      # Project overview and documentation
+DoddieMNDProject26/
+├── data/          # Input and processed data  
+├── analysis/      # Analysis scripts and workflows 
+├── results/       # Analysis outputs and figures 
+├── docs/          # Project documentation 
+├── notebooks/     # Exploratory analyses 
+└── README.md      # Project overview 
 
 ## Contact
 For questions or collaboration enquiries, please contact 
