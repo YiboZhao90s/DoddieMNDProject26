@@ -5,7 +5,7 @@ The endo-lysosomal system is crucial for neurons and glia to maintain normal bra
 
 Therapeutic targeting of the endo-lysosomal system has shown promising results in clinical trial (PMID: 38606777). Our mission is to leverage human-relevant multi-omics data to identify and validate potential endo-lysosomal targets for therapeutic intervention in MND.
 
-This project is funded by the My Name'5 Doddie Foundation (Project ID: )
+This project is funded by the My Name'5 Doddie Foundation (Project ID: 2DNFA2\100006)
 
 ## Repository Structure
     DoddieMNDProject26/
